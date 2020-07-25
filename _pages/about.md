@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "About"
-author: "Chester"
+title: "Beomseok Kim"
 permalink: /about/
 ---
 
